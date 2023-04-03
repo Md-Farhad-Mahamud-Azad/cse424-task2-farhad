@@ -1,7 +1,8 @@
 Link to unlisted YouTube video:
-will be update soon
+https://youtu.be/LcsejMOlOuI
 
-Public link to the slide: 
+Public link to the slide (Anyone on the internet can view without login): 
+https://docs.google.com/presentation/d/19uoR0lfKqpV5E4VDW3ZUO_b8b3FmARrh/edit?usp=sharing&ouid=106596760709766989536&rtpof=true&sd=true
 
 Paper title:
 SDN-Based Architecture for Transport and Application Layer DDoS Attack Detection by Using Machine and Deep Learning
@@ -10,8 +11,6 @@ SDN-Based Architecture for Transport and Application Layer DDoS Attack Detection
 
 Link to the paper:
 https://ieeexplore.ieee.org/document/9502698
-
-reason of being late:-- because of high fever i could not get chance to complete my work. i will upadate it as soon as possible
 
 
 Group Number: 14
